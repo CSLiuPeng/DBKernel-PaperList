@@ -1,6 +1,6 @@
 # In-Memory Database
 
-##SIGMOD
+## SIGMOD
 
 + Yesdaulet Izenov, Asoke Datta, Florin Rusu, Jun Hyung Shin:COMPASS: Online Sketch-based Query Optimization for In-Memory Databases. SIGMOD Conference 2021: 804-816 2020
 		
