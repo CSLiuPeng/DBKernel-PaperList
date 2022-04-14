@@ -8,4 +8,4 @@ For non-A papers, the contents of the articles worthy of reference can also be a
 
 [GPU_DB][gpudb]
 
-[gpudb]:https://github.com/CSLiuPeng/CCFA-DB/blob/dev/GPUDB.md
+[gpudb]:https://github.com/CSLiuPeng/CCFA-DB/blob/main/GPUDB.md
