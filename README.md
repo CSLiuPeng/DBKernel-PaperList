@@ -1,2 +1,2 @@
 # CCFA-DB
-The classical paper of database, it include traditional db and ai4db
+The classical paper of database, it include traditional db, ai4db and others.
