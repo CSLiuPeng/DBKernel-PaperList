@@ -6,6 +6,8 @@ For non-A papers, the contents of the articles worthy of reference can also be a
 
 [ai4db]:https://github.com/LumingSun/ML4DB-paper-list
 
-[GPU_DB][gpudb]
+[CMU 15-445/645][cmu15445]
+[cmu15445]:https://15445.courses.cs.cmu.edu/fall2022/schedule.html
 
-[gpudb]:https://github.com/CSLiuPeng/CCFA-DB/blob/main/GPUDB.md
+[CMU 15-721][cmu15721]
+[cmu15721]:https://15721.courses.cs.cmu.edu/spring2023/schedule.html
