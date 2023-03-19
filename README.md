@@ -12,4 +12,4 @@ For non-A papers, the contents of the articles worthy of reference can also be a
 
 [CMU 15-721][cmu15721]
 
-https://15721.courses.cs.cmu.edu/spring2023/schedule.html
+[cmu15721]https://15721.courses.cs.cmu.edu/spring2023/schedule.html
